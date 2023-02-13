@@ -1,0 +1,9 @@
+ul{
+    background-color: tomato;
+    color: black;
+    padding: 20px;
+}
+ul li{
+    display: inline;
+    padding: 30px;
+}
